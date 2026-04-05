@@ -6,7 +6,7 @@ Hello! My name is Ruan Pablo Alves Radin. I am a 20-year-old Information Systems
 
 My professional objective is to merge robust backend architectures with advanced data processing capabilities. I am actively preparing for an international career, aiming to join the Japanese technology market upon my graduation in late 2028.
 
-[LinkedIn](www.linkedin.com/in/ruan-pablo-alves-radin-247073401) |
+[Link to my LinkedIn]([LINKEDIN_URL_HERE](https://www.linkedin.com/in/ruan-pablo-alves-radin-247073401/?skipRedirect=true)) | [Link to my Instagram](INSTAGRAM_URL_HERE)
 
 ---
 ### 🤖 Languages and Tools
@@ -40,7 +40,7 @@ My professional objective is to merge robust backend architectures with advanced
 
 **Data Engineering Path:**
 - Formação Docker *(In progress)*
-- Formação Começando na AWS com Lightsail, EC2, S3, VPC, RDS e DynamoDB *(In progress)*
+- Formação Começando na AWS com Lightsail, EC2, S3, VPC, RDS and DynamoDB *(In progress)*
 - Formação Apache Airflow *(In progress)*
 - Trilha Mensageria com Apache Kafka *(In progress)*
 - Formação AWS Data Lake: construindo pipelines na AWS *(In progress)*
