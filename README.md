@@ -20,12 +20,7 @@ My professional objective is to merge robust backend architectures with advanced
 <br><br>
 
 ---
-### 📈 GitHub Stats
 
-<p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&custom_title=Technologies" />
-</p>
 
 ---
 ### 📚 Education & Certifications (Alura)
