@@ -6,7 +6,7 @@ Hello! My name is Ruan Pablo Alves Radin. I am a 20-year-old Information Systems
 
 My professional objective is to merge robust backend architectures with advanced data processing capabilities. I am actively preparing for an international career, aiming to join the Japanese technology market upon my graduation in late 2028.
 
-[Link to my LinkedIn]([LINKEDIN_URL_HERE](https://www.linkedin.com/in/ruan-pablo-alves-radin-247073401/?skipRedirect=true))
+[Link to my LinkedIn]((https://www.linkedin.com/in/ruan-pablo-alves-radin-247073401/?skipRedirect=true)]())
 ---
 ### 🤖 Languages and Tools
 
